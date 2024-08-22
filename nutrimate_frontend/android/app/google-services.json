@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313011296856",
+    "project_id": "nutrimate-15add",
+    "storage_bucket": "nutrimate-15add.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313011296856:android:1cfbc302ee5a37edbb482d",
+        "android_client_info": {
+          "package_name": "com.example.nutrimate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATuDMjmOzELZZ3-5FJ7Na8EBBmV3_z_Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
